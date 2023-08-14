@@ -25,8 +25,13 @@ User Story
 - THEN the password is either displayed in an alert or written to the page
 ---
 ## Usage
-```md
-    ![alt text](assets\Screenshots-User Guide/User Guide-01_Click the Button to run.JPG)
-    ![alt text](assets\Screenshots-User Guide/User Guide-02_Input the number of characters you want.JPG)
-    ![alt text](assets\Screenshots-User Guide/User Guide-03_Choose to contain Number or Not.JPG)
+GitHub folder: https://github.com/HuiPan-Peter/Module03-Challenge_HuiPan/tree/main/assets/Screenshots-User%20Guide
+```
+![alt text](assets\Screenshots-User Guide/User Guide-01_Click the Button to run.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-02_Input the number of characters you want.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-03_Choose to contain Number or Not.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-04_Choose to contain Special Characters or Not.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-05_Choose to contain Uppercase Letters or Not.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-06_Choose to contain Lowercase Letters or Not.JPG)
+![alt text](assets\Screenshots-User Guide/User Guide-07_you password will be generated here.JPG)
 ```
