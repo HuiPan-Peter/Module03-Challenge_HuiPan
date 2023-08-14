@@ -35,3 +35,7 @@ GitHub folder: https://github.com/HuiPan-Peter/Module03-Challenge_HuiPan/tree/ma
 ![alt text](assets\Screenshots-User Guide/User Guide-06_Choose to contain Lowercase Letters or Not.JPG)
 ![alt text](assets\Screenshots-User Guide/User Guide-07_you password will be generated here.JPG)
 ```
+## Deployment and Pages
+- URL Link: https://huipan-peter.github.io/Module03-Challenge_HuiPan/
+- Repository Link: https://github.com/HuiPan-Peter/Module03-Challenge_HuiPan/tree/main
+
